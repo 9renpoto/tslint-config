@@ -4,7 +4,8 @@
   "description": "@9nrepoto Linter Settings",
   "main": "tslint.json",
   "scripts": {
-    "test": "tslint test/*.ts"
+    "test": "tslint test/*.ts",
+    "postpublish": "greenkeeper-postpublish"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/9renpoto/tslint-config#readme",
   "devDependencies": {
+    "greenkeeper-postpublish": "^1.0.0",
     "tslint": "^3.13.0",
     "typescript": "^1.8.10"
   },
