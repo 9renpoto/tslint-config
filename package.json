@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "greenkeeper-postpublish": "^1.0.0",
-    "tslint": "^3.13.0",
+    "tslint": "^4.0.0",
     "typescript": "^2.0.3"
   },
   "homepage": "https://github.com/9renpoto/tslint-config#readme",
