@@ -1,16 +1,15 @@
 {
   "name": "@9renpoto/tslint-config",
   "description": "@9nrepoto Linter Settings",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "author": "@9renpoto",
   "bugs": {
     "url": "https://github.com/9renpoto/tslint-config/issues"
   },
   "dependencies": {
-    "tslint-config-standard": "^3.0.0"
+    "tslint-config-standard": "^4.0.0"
   },
   "devDependencies": {
-    "greenkeeper-postpublish": "^1.0.0",
     "tslint": "^4.0.2",
     "typescript": "^2.2.1"
   },
@@ -25,7 +24,6 @@
     "url": "git+ssh://git@github.com/9renpoto/tslint-config.git"
   },
   "scripts": {
-    "postpublish": "greenkeeper-postpublish",
     "test": "tslint test/*.ts"
   }
 }
