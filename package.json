@@ -10,7 +10,7 @@
     "tslint-config-standard": "^4.0.0"
   },
   "devDependencies": {
-    "tslint": "^4.0.2",
+    "tslint": "^4.5.1",
     "typescript": "^2.2.1"
   },
   "homepage": "https://github.com/9renpoto/tslint-config#readme",
