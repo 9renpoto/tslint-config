@@ -1,17 +1,17 @@
 {
   "name": "@9renpoto/tslint-config",
   "description": "@9nrepoto Linter Settings",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "author": "@9renpoto",
   "bugs": {
     "url": "https://github.com/9renpoto/tslint-config/issues"
   },
   "dependencies": {
-    "tslint-config-standard": "^5.0.0"
+    "tslint-config-standard": "^5.0.2"
   },
   "devDependencies": {
-    "tslint": "^5.0.0",
-    "typescript": "^2.2.1"
+    "tslint": "^5.2.0",
+    "typescript": "^2.3.2"
   },
   "homepage": "https://github.com/9renpoto/tslint-config#readme",
   "keywords": [
