@@ -10,8 +10,8 @@
     "tslint-config-standard": "^6.0.1"
   },
   "devDependencies": {
-    "tslint": "^5.2.0",
-    "typescript": "^2.3.2"
+    "tslint": "^5.4.3",
+    "typescript": "^2.3.4"
   },
   "homepage": "https://github.com/9renpoto/tslint-config#readme",
   "keywords": [
@@ -19,6 +19,9 @@
   ],
   "license": "MIT",
   "main": "tslint.json",
+  "peerDependencies": {
+    "tslint": "5.x"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/9renpoto/tslint-config.git"
