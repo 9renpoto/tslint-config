@@ -1,8 +1,10 @@
 # @9renpoto/tslint-config
 
+[![npm version][npm-image]][npm-url]
+[![Dependency Status][david-dm-image]][david-dm-url]
+[![devDependency Status][dev-david-dm-image]][dev-david-dm-url]
+[![Build Status][travis-image]][travis-url]
 [![Greenkeeper badge](https://badges.greenkeeper.io/9renpoto/tslint-config.svg)](https://greenkeeper.io/)
-
-[![npm version][npm-image]][npm-url] [![Dependency Status][david-dm-image]][david-dm-url] [![devDependency Status][dev-david-dm-image]][dev-david-dm-url] [![Build Status][travis-image]][travis-url]
 
 ## Installation
 
